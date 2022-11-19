@@ -7,8 +7,8 @@ import Activity from "./components/Activity";
 function App() {
   return (
     <>
-      {/* <Box /> */}
-      <Channels />
+      <Box />
+      {/* <Channels /> */}
       {/* <Activity /> */}
     </>
   );

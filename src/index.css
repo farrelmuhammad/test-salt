@@ -18,4 +18,16 @@ code {
   .box-text {
     @apply bg-[#F4E3CF] aspect-[3/2] text-[#953e46] p-4;
   }
+
+  .card {
+    @apply flex flex-row border border-[#953e46] p-2;
+  }
+
+  .hr-top {
+    @apply h-[2px] bg-[#F4E3CF] border-none mb-4;
+  }
+
+  .hr-bottom {
+    @apply h-[1px] bg-[#F4E3CF] border-none my-4;
+  }
 }
