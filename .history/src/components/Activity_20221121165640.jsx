@@ -110,7 +110,7 @@ const Activity = () => {
             </div>
           </div> */}
 
-          {/* <div class="card hover:border-[#F4E3CF]">
+          <div class="card hover:border-[#F4E3CF]">
             <div className="w-48 bg-[#F4E3CF]"></div>
 
             <div class="py-1 pl-4 truncate text-[#F4E3CF]">
@@ -127,7 +127,7 @@ const Activity = () => {
                 19 minutes ago
               </p>
             </div>
-          </div> */}
+          </div>
         </div>
 
         <hr className="hr-bottom" />

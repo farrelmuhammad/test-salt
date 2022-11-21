@@ -1,7 +1,7 @@
 import React from "react";
 import { FaComment, FaVideo, FaUnlock, FaHeart, FaFile } from "react-icons/fa";
 
-const Activity = () => {
+const People = () => {
   return (
     <>
       <section className="container max-w-xl">
@@ -136,4 +136,4 @@ const Activity = () => {
   );
 };
 
-export default Activity;
+export default People;
